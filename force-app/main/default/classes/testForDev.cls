@@ -6,4 +6,8 @@ public with sharing class testForDev {
         string s = 'kfjwj';
         return s;
     }
+    public string testForstringMethod1() {
+        string s = 'kfjwjsdf';
+        return s;
+    }
 }
