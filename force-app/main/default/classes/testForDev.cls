@@ -10,4 +10,8 @@ public with sharing class testForDev {
         string s = 'kfjwjsdf';
         return s;
     }
+    public string testForstringMethod2() {
+        string s = 'kfjwjsdf';
+        return s;
+    }
 }
